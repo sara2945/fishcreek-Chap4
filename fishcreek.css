@@ -82,6 +82,12 @@ color: #5380C5;
 font-family: Georgia, "Times New Roman", serif; 
 font-weight: bold;
 }
+.address { clear: left; }
+.floatright {
+float: right;
+padding-left: 1em;
+padding-right: 1em;
+}
 footer { 
 background-color: #AEC3E3;
 font-size: .70em;
